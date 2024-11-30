@@ -23,7 +23,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/spotify-music-app-clone.git  
+git clone [https://github.com/yourusername/spotify-music-app-clone.git](https://github.com/Jaswanth1806/Spotify-Playing.git)  
 cd spotify-music-app-clone  
 Open in Browser:
 Open index.html in your browser or use VS Code with the Live Server extension:
